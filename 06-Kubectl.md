@@ -29,4 +29,3 @@ Kubectl is a command-line tool for interacting with Kubernetes clusters.
     ```
     
 
----

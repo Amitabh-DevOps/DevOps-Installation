@@ -95,5 +95,5 @@ bashCopy codeargocd login <ARGOCD_SERVER> -u admin -p <password>
 **Happy Automating with ArgoCD!** 🚀  
 ```  
 
----
+
 

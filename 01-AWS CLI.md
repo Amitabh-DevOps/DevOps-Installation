@@ -80,4 +80,3 @@ The AWS CLI allows you to interact with AWS services from the command line.
     * Save the **Access Key ID** and **Secret Access Key** securely, and copy them to paste during the `aws configure` setup process.
         
 
----

@@ -60,4 +60,3 @@ Using Helm makes it much easier to deploy complex applications like Prometheus a
     * Open your browser and go to [`http://localhost:3000`](http://localhost:3000). Use default credentials (`admin/admin`).
         
 
----

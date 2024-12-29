@@ -51,4 +51,3 @@ sudo apt install openjdk-17-jdk
 7. **Access Jenkins:** Open a browser and navigate to `http://<your-ip>:8080`. Use the password located in `/var/lib/jenkins/secrets/initialAdminPassword`.
     
 
----

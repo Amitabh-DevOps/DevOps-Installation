@@ -30,4 +30,3 @@ Grafana visualizes data collected by Prometheus.
 4. **Access Grafana:** Open a browser and navigate to `http://<your-ip>:3000`. Use default credentials (`admin/admin`).
     
 
----

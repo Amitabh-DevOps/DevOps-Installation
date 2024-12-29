@@ -29,4 +29,3 @@ Minikube is another lightweight Kubernetes option for local development.
     ```
     
 
----
