@@ -1,7 +1,9 @@
 # Essential DevOps Tools Installation Guide  
 
+
 ## 🚀 Overview  
 This repository provides a complete guide to installing and setting up essential DevOps tools on Ubuntu/Linux. Whether you're a beginner exploring DevOps or a professional building infrastructure, this guide has you covered with step-by-step instructions for tools like AWS CLI, Docker, Jenkins, Prometheus, Grafana, Helm, EKSCTL, ArgoCD, and more.  
+
 
 ---
 
@@ -69,14 +71,19 @@ A command-line interface for managing ArgoCD, enabling easier integration into w
 
 ---
 
+
 ## 🤝 Contributions  
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this guide.  
 
+
 ---
+
 
 ## 📧 Contact  
 For queries or suggestions, reach out via [Email](amitabhdevops2024@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/amitabh-devops).  
 
+
 ---
+
 
 **Happy DevOps-ing!** ✨  
