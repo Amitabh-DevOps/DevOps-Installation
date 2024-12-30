@@ -63,7 +63,7 @@ You should see the installed version of **ArgoCD CLI** displayed.
 ### 4.Retrive and Decode the password:
 
 ```bash
-bashCopy codekubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath='{.data.password}' | base64 -d
+kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath='{.data.password}' | base64 -d
 ```
 
 This will return the decoded password.
@@ -75,7 +75,7 @@ This will return the decoded password.
 Once you have the password, you can log in to the **ArgoCD** server using the following command:
 
 ```bash
-bashCopy codeargocd login <ARGOCD_SERVER> -u admin -p <password>
+argocd login <ARGOCD_SERVER> -u admin -p <password>
 ```
 
 * `<ARGOCD_SERVER>`: Replace this with the address of your **ArgoCD** server (e.g., [`argocd.example.com`](http://argocd.example.com) or an IP address).
